@@ -16,9 +16,12 @@ where to sell their produce, reducing exploitation by middlemen.
 
 ##  SDG Alignment
 
-This project aligns with **UN Sustainable Development Goal 2: Zero Hunger**
+This project aligns with ** Sustainable Development Goal 2: Zero Hunger**
 - Target 2.3: Double agricultural productivity and income of smallholder farmers
-- Target 2.c: Ensure proper functioning of food commodity markets
+- Target 2.c: Ensure proper functioning of food commodity markets( by ensuring the proper functioning of food commodity
+ markets and facilitating timely access to market information to help limit extreme foodprice volatility. By empowering
+smallholder farmers with real time price data, it helps improve agricultural productivity, increases incomes, and promotes
+sustainable  food production system in sierra leone.
 
 ##  Key Features
 
