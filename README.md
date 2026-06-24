@@ -46,7 +46,7 @@ This project aligns with **UN Sustainable Development Goal 2: Zero Hunger**
 
 ##  Prototype
 
-Full Figma prototype: [https://www.figma.com/proto/kTdItZJWbFaMIs85Wm2z6q/AgriPrice-Alert?node-id=18-207&t=bZRiGJTqTXrQ7p8f-1]
+Full Figma prototype: [https://www.figma.com/design/kTdItZJWbFaMIs85Wm2z6q/AgriPrice-Alert?node-id=0-1&t=XUqEJ0OoalUxhEQ8-1]
 
 ## Authors
 
